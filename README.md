@@ -3,7 +3,7 @@ Learning github
 
 Hello Humans!
 
-Nothing better to do on a Sunday morning than to learn github!
+Seneca is the man!
 
 
 
